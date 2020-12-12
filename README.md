@@ -1,14 +1,14 @@
 # Controle Com Arduino e Acelerometro
 Nesse projeto utilizamos um Arduino e um acelerômetro para emitir comandos como um teclado para um computador.
 
-#Requisitos
+# Requisitos
 Para utilizar este código é necessário possuir:
 * Arduino Leonardo
 * Sensor Acelerometro ADXL345
 * Biblioteca Adafruit_ADXL345_U disponível em: https://github.com/adafruit/Adafruit_ADXL345
 * Biblioteca Adafruit Sensor Library disponível em: https://github.com/adafruit/Adafruit_Sensor
 
-#Conexões do Acelerômetro:
+# Conexões do Acelerômetro:
 * ADXL345 SCL -> Arduino SCL
 * ADXL345 SDA -> Arduino SDA
 * ADXL345 VCC -> Arduino 3V3
